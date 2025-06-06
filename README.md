@@ -5,10 +5,11 @@ It may be a simple idea, but to me it is important, as I'll use it myself, but i
 #
 
 ### Ideas TO DO 06/06:
- - Make the structure of the site
- - Add a button to create the Post It
- - Make them more stylised rather than plain colors
- - Colors customizable
- - Dark mode
- - Download Post It as PNG
+ - Make the structure of the site ✅
+ - Add a button to create the Post It ✅
+ - Make them more stylised rather than plain colors ✅
+ - Colors customizable ✅
+ - Dark mode ✅
+ - Download Post It as PNG ✅
+ - Delete button ✅
 #
