@@ -4,7 +4,7 @@
 It may be a simple idea, but to me it is important, as I'll use it myself, but it would make me happy if it helped you too, whoever is reading.
 #
 ### Disclaimer!
-+ Document edited and made by (@Monodrama_098 (Twitter))[https://x.com/Monodrama_098] / (Anak1n098 (Github))[https://github.com/Anak1n098]. If used or edited, please credit original creator.
++ Document edited and made by [@Monodrama_098 (Twitter)](https://x.com/Monodrama_098) / [Anak1n098 (Github)](https://github.com/Anak1n098). If used or edited, please credit original creator.
 + Commercial use of this document without proper permission is prohibited.
 + Free use is permitted as long as you credit aproprietely.
 #
