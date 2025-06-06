@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+
+<!--Document edited and made by @Monodrama_098 (Twitter) / Anak1n098 (Github). If used or edited, please credit original creator.-->
+<!--Commercial use of this document without proper permission is prohibited.-->
+<!--Free use is permitted as long as you credit.-->
+
+<html lang="en">
+    <head
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Post It</title>
+
+        <!--This allows for the code to read the style from another source so it doesn't clog up the code-->
+        <link rel="stylesheet" href="styles.css">
+
+        <!--This allows for posts to be downloaded as PNGs-->
+        <script src="https://html2canvas.hertzen.com/dist/html2canvas.min.js"></script>
+    </head>
+    <body>
+
+        <!--Separate the items in IDs and Classes for better stylizing and scripting-->
+        <header>
+            <h1 class="Titles">Post It</h1>
+            <button id="darkModeBut">🌙 Dark Mode</buttonid>
+        </header>
+
+        <main>
+            <!--Section to hold the post its and everything related to them-->
+            <section id="Agenda">
+
+                <!--Allows for new post its to be made-->
+                <button id="createPostIt">+ Create Post-It</button>
+
+                <!--Section to hold the newly made posts-->
+                <div id="PostContainer"></div>
+            </section>
+        </main>
+
+        <!--This allows for functions, like buttons, to work form a different source to not clog the code-->
+        <script src="script.js"></script>
+        
+    </body>
+
+    <footer>
+        <a href="https://github.com/Anak1n098" class="rainbow-text">
+            © 2025 Post It. All rights reserved.
+            <br>
+            Developed by Monodrama 🎭
+        </a>
+    </footer>
+
+</html>
