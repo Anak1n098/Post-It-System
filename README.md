@@ -1,5 +1,5 @@
 # English
-#
+
 # Post It System
 
 ### This is a Personal Project of mine that I wanted to do where it is a system for making Post Its for your day to day tasks.
@@ -35,7 +35,7 @@ It may be a simple idea, but to me it is important, as I'll use it myself, but i
  - Dark mode ✅
  - Download Post It as PNG ✅
  - Delete button ✅
-#
+
 ### Ideas TO DO (09/06) :
 - Make the structure of the site
 - Resizeable post its
@@ -45,9 +45,10 @@ It may be a simple idea, but to me it is important, as I'll use it myself, but i
 - Make post it saveable as file
 - Make same file readable and be added to the website
 #
+#
 
 # Português
-#
+
 # Sistema de Post It
 
 ### Este é um projeto pessoal meu que eu quis fazer onde é um sistema de criação de post its para o seu dia a dia.
