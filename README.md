@@ -15,10 +15,12 @@ It may be a simple idea, but to me it is important, as I'll use it myself, but i
 ### Guide:
 + ✅ Done
 + ✴️ Partial
-+ ❌ Incomplete / Not Started
++ ⚠️ Incomplete
 + 🛜 Doing
 + ⏩️ Testing
 + ⏯️ Needs Testing
++ 🔶 Not Started
++ ❌ Not Working
 #
 ### How to utilize:
 1. Go to the [official VSCode download website](https://code.visualstudio.com/download) or use another app of your preference, but in here I'll teach through VSCode.
@@ -30,7 +32,7 @@ It may be a simple idea, but to me it is important, as I'll use it myself, but i
 - I intend to make a GitHub Pages for this, but this time it didn't work and will solve later.
 #
 ### Ideas TO DO (06/06) :
- - Make the structure of the site ✴️
+ - Make the structure of the site 🛜
  - Add a button to create the Post It ✅
  - Make them more stylised rather than plain colors ✅
  - Colors customizable ✅
@@ -39,13 +41,13 @@ It may be a simple idea, but to me it is important, as I'll use it myself, but i
  - Delete button ✅
 
 ### Ideas TO DO (09/06) :
-- Make the structure of the site
+- Make the structure of the site 🛜
 - Resizeable post its ✅
-- Timer / Alarm in real time ✴️ | ⏯️
-- Share post as PNG on social media (Twitter 1st)
-- Uploadable image for background ✴️ | ⏯️
-- Make post it saveable as file
-- Make same file readable and be added to the website
+- Timer / Alarm in real time ✅ | ⏯️
+- Share post as PNG on social media (Twitter 1st) 🔶
+- Uploadable image for background ✅ | ⏯️
+- Make post it saveable as file 🔶
+- Make same file readable and be added to the website 🔶
 #
 #
 
@@ -66,10 +68,12 @@ Pode ser uma ideia simples, mas para mim é importante, pois eu mesmo usarei, ma
 ### Guia:
 + ✅ Feito
 + ✴️ Parcial
-+ ❌ Incompleto / Não Iniciado
++ ⚠️ Incompleto
 + 🛜 Fazendo
 + ⏩️ Testando
 + ⏯️ Precisa de Testes
++ 🔶 Não Iniciado
++ ❌ Não Funciona
 #
 ### Como utilizar:
 1. Acesse o [site oficial de download do VSCode](https://code.visualstudio.com/download) ou use outro aplicativo de sua preferência, mas aqui ensinarei usando o VSCode.
@@ -81,7 +85,7 @@ Pode ser uma ideia simples, mas para mim é importante, pois eu mesmo usarei, ma
 - Eu pretendo fazer um GitHub Pages para isto, mas dessa vez não funcionou. Irei resolver depois.
 #
 ### Ideias PARA FAZER (06/06):  
-- Fazer a estrutura do site ✴️  
+- Fazer a estrutura do site 🛜
 - Adicionar um botão para criar o Post It ✅  
 - Deixá-los mais estilizados em vez de cores simples ✅  
 - Cores personalizáveis ✅  
@@ -90,10 +94,10 @@ Pode ser uma ideia simples, mas para mim é importante, pois eu mesmo usarei, ma
 - Botão de deletar ✅  
 
 ### Ideias PARA FAZER (09/06):  
-- Fazer a estrutura do site 
+- Fazer a estrutura do site 🛜
 - Post Its redimensionáveis ✅
-- Temporizador / Alarme em tempo real ✴️ | ⏯️
-- Compartilhar Post It como PNG em redes sociais (Twitter primeiro) 
-- Imagem de fundo personalizável (upload) ✴️ | ⏯️
-- Salvar Post It como arquivo 
-- Fazer com que o mesmo arquivo seja legível e adicionado ao site 
+- Temporizador / Alarme em tempo real ✅ | ⏯️
+- Compartilhar Post It como PNG em redes sociais (Twitter primeiro) 🔶
+- Imagem de fundo personalizável (upload) ✅ | ⏯️
+- Salvar Post It como arquivo 🔶
+- Fazer com que o mesmo arquivo seja legível e adicionado ao site 🔶
