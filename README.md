@@ -17,6 +17,8 @@ It may be a simple idea, but to me it is important, as I'll use it myself, but i
 + ✴️ Partial
 + ❌ Incomplete / Not Started
 + 🛜 Doing
++ ⏩️ Testing
++ ⏯️ Needs Testing
 #
 ### How to utilize:
 1. Go to the [official VSCode download website](https://code.visualstudio.com/download) or use another app of your preference, but in here I'll teach through VSCode.
@@ -38,10 +40,10 @@ It may be a simple idea, but to me it is important, as I'll use it myself, but i
 
 ### Ideas TO DO (09/06) :
 - Make the structure of the site
-- Resizeable post its
-- Timer / Alarm in real time
+- Resizeable post its ✅
+- Timer / Alarm in real time ✴️ | ⏯️
 - Share post as PNG on social media (Twitter 1st)
-- Uploadable image for background
+- Uploadable image for background ✴️ | ⏯️
 - Make post it saveable as file
 - Make same file readable and be added to the website
 #
@@ -66,6 +68,8 @@ Pode ser uma ideia simples, mas para mim é importante, pois eu mesmo usarei, ma
 + ✴️ Parcial
 + ❌ Incompleto / Não Iniciado
 + 🛜 Fazendo
++ ⏩️ Testando
++ ⏯️ Precisa de Testes
 #
 ### Como utilizar:
 1. Acesse o [site oficial de download do VSCode](https://code.visualstudio.com/download) ou use outro aplicativo de sua preferência, mas aqui ensinarei usando o VSCode.
@@ -87,9 +91,9 @@ Pode ser uma ideia simples, mas para mim é importante, pois eu mesmo usarei, ma
 
 ### Ideias PARA FAZER (09/06):  
 - Fazer a estrutura do site 
-- Post Its redimensionáveis 
-- Temporizador / Alarme em tempo real 
+- Post Its redimensionáveis ✅
+- Temporizador / Alarme em tempo real ✴️ | ⏯️
 - Compartilhar Post It como PNG em redes sociais (Twitter primeiro) 
-- Imagem de fundo personalizável (upload) 
+- Imagem de fundo personalizável (upload) ✴️ | ⏯️
 - Salvar Post It como arquivo 
 - Fazer com que o mesmo arquivo seja legível e adicionado ao site 
