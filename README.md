@@ -44,10 +44,10 @@ It may be a simple idea, but to me it is important, as I'll use it myself, but i
 - Make the structure of the site 🛜
 - Resizeable post its ✅
 - Timer / Alarm in real time ✅ | ⏯️
-- Share post as PNG on social media (Twitter 1st) 🔶
+- Share post as PNG on social media (Twitter 1st) ✅
 - Uploadable image for background ✅ | ⏯️
-- Make post it saveable as file 🔶
-- Make same file readable and be added to the website 🔶
+- Make post it saveable as file ✅
+- Make same file readable and be added to the website ✅ | ⏯️
 #
 #
 
@@ -97,7 +97,7 @@ Pode ser uma ideia simples, mas para mim é importante, pois eu mesmo usarei, ma
 - Fazer a estrutura do site 🛜
 - Post Its redimensionáveis ✅
 - Temporizador / Alarme em tempo real ✅ | ⏯️
-- Compartilhar Post It como PNG em redes sociais (Twitter primeiro) 🔶
+- Compartilhar Post It como PNG em redes sociais (Twitter primeiro) ✅
 - Imagem de fundo personalizável (upload) ✅ | ⏯️
-- Salvar Post It como arquivo 🔶
-- Fazer com que o mesmo arquivo seja legível e adicionado ao site 🔶
+- Salvar Post It como arquivo ✅
+- Fazer com que o mesmo arquivo seja legível e adicionado ao site ✅ | ⏯️
