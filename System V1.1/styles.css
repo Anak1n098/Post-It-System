@@ -1,0 +1,223 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+    background-color: #f5f5f5;
+
+    overflow-y: auto; /*Allows vertical scrolling*/
+    min-height: 100vh; /*Ensures body takes full viewport height*/
+
+    
+}
+
+/*Allows the container to be scrolled through separately from the body*/
+#PostContainer {
+    max-height: 80vh; /*Limits container height*/
+    overflow-y: auto; /*Adds scrollbar if content overflows*/
+    padding: 10px;
+
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    align-content: flex-start; /*Prevents awkward gaps*/
+    max-height: 80vh;
+    overflow-y: auto;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+footer p {
+    font-size: 1.2rem;
+    font-weight: bold;
+    background: linear-gradient(
+        to right,
+        red, orange, yellow, green, blue, indigo, violet, red
+    );
+    background-size: 400% 100%;
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+    animation: rainbow 5s linear infinite;
+}
+
+.rainbow-text {
+    font-size: 1.2rem;
+    font-weight: bold;
+    text-decoration: none; /* Removes underline */
+    background: linear-gradient(
+        to right,
+        red, orange, yellow, green, blue, indigo, violet, red
+    );
+    background-size: 400% 100%;
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+    animation: rainbow 4s linear infinite;
+}
+
+@keyframes rainbow {
+    0% { background-position: 0% 50%; }
+    100% { background-position: 100% 50%; }
+}
+
+#PostContainer {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    margin-top: 20px;
+    border: 1px solid #ccc;
+    border-radius: 30px;
+}
+
+.postIt {
+    width: 200px;
+    height: 200px;
+    background: #ffeb3b;
+    padding: 15px;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2);
+    position: relative;
+    border-radius: 5px;
+}
+
+.postIt {
+    resize: both; /*Allows manual resizing*/
+    overflow: auto; /*Needed for resize to work*/
+    min-width: 150px;
+    min-height: 150px;
+}
+
+.postIt textarea {
+    width: 100%;
+    height: 80%;
+    border: none;
+    background: transparent;
+    resize: none;
+    outline: none;
+    font-family: Arial, sans-serif;
+}
+
+.deleteBut {
+    position: absolute;
+    bottom: 10px;
+    right: 10px;
+    background: none;
+    border: none;
+    cursor: pointer;
+}
+
+.dark-mode .postIt textarea {
+    color: white;
+    background: #555;
+}
+
+:root {
+    --bg-color: #f5f5f5;
+    --text-color: #333;
+    --postit-color: #ffeb3b;
+}
+
+/*Dark mode variables*/
+.dark-mode {
+    --bg-color: #222;
+    --text-color: #f0f0f0;
+    --postit-color: #444;
+}
+
+body {
+    background-color: var(--bg-color);
+    color: var(--text-color);
+    transition: background 0.3s, color 0.3s; /*Smooth transition*/
+}
+
+.postIt {
+    background: var(--postit-color);
+    /*Keep other styles (shadow, etc.)*/
+}
+
+/* Style the color picker */
+.colorPicker {
+    position: absolute;
+    top: 5px;
+    right: 5px;
+    width: 20px;
+    height: 20px;
+    border: black 1px solid;
+    cursor: pointer;
+    opacity: 0.5;
+    transition: opacity 0.2s;
+}
+
+.colorPicker:hover {
+    opacity: 1;
+}
+
+/* Hide default color picker UI (optional) */
+.colorPicker::-webkit-color-swatch {
+    border: none;
+    border-radius: 50%;
+}
+
+
+
+.deleteBut, .downloadBut {
+    background: rgba(255, 255, 255, 0.7);
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+    padding: 2px 5px;
+    font-size: 14px;
+}
+
+.downloadBut:hover, .deleteBut:hover {
+    background: white;
+}
+
+/*Alarm flash animation*/
+@keyframes flash {
+    0%, 100% { background-color: inherit; }
+    50% { background-color: #ff0000; } /* Red flash */
+}
+
+.alarm-trigger {
+    animation: flash 0.5s infinite;
+}
+
+/*Style time controls*/
+.time-controls {
+    display: flex;
+    gap: 5px;
+    margin-top: 10px;
+}
+
+.timeInput {
+    padding: 3px;
+    border: 1px solid #ddd;
+    border-radius: 3px;
+}
+
+.alarmBut {
+    background: rgba(255, 255, 255, 0.7);
+    border: none;
+    border-radius: 3px;
+    padding: 3px 6px;
+    cursor: pointer;
+}
+
+#bgUploadButton, #resetBgButton {
+    background: rgba(255, 255, 255, 0.7);
+    border: none;
+    border-radius: 4px;
+    padding: 6px 12px;
+    margin-left: 10px;
+    cursor: pointer;
+    font-size: 14px;
+}
+
+#bgUploadButton:hover, #resetBgButton:hover {
+    background: white;
+}
