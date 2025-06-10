@@ -23,8 +23,8 @@ It may be a simple idea, but to me it is important, as I'll use it myself, but i
 + ❌ Not Working
 #
 ### How to utilize:
-1. Go to the [official VSCode download website](https://code.visualstudio.com/download) or use another app of your preference, but in here I'll teach through VSCode.
-2. After instalation, go to your extensions tab and download Live Server, or download from [HERE](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer).
+1. Go to the **[official VSCode download website](https://code.visualstudio.com/download)** or use another app of your preference, but in here I'll teach through VSCode.
+2. After instalation, go to your extensions tab and download Live Server, or download from **[HERE](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)**.
 3. Download the files in **System** on the preferred version.
 4. In VSCode, **Right Click** on top of **Agenda.html**, and choose **Open with Live Server**
 5. Use the website in your preferred browser.
@@ -76,8 +76,8 @@ Pode ser uma ideia simples, mas para mim é importante, pois eu mesmo usarei, ma
 + ❌ Não Funciona
 #
 ### Como utilizar:
-1. Acesse o [site oficial de download do VSCode](https://code.visualstudio.com/download) ou use outro aplicativo de sua preferência, mas aqui ensinarei usando o VSCode.
-2. Após a instalação, vá até a aba de extensões e baixe o **Live Server** ou faça o download [AQUI](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer).
+1. Acesse o **[site oficial de download do VSCode](https://code.visualstudio.com/download)** ou use outro aplicativo de sua preferência, mas aqui ensinarei usando o VSCode.
+2. Após a instalação, vá até a aba de extensões e baixe o **Live Server** ou faça o download **[AQUI](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)**.
 3. Baixe os arquivos na pasta **System** da versão desejada.
 4. No VSCode, **clique com o botão direito** em **Agenda.html** e selecione **Open with Live Server** (Abrir com Live Server).
 5. Use o site no navegador de sua preferência.
